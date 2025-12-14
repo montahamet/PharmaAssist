@@ -1,8 +1,9 @@
-# PharmaAssist - RAG for Pharmaceutical Research
+# PharmaAssist – RAG for Pharmaceutical Research
 
-## Overview
+**PharmaAssist** is a Retrieval-Augmented Generation (RAG) application built to assist pharmaceutical researchers. It provides a reliable method to extract information and answer specific questions grounded in proprietary or uploaded PDF documents.
 
-**PharmaAssist** is a Retrieval-Augmented Generation (RAG) application built to assist pharmaceutical researchers. It provides a reliable method to extract information and answer specific questions grounded in proprietary or uploaded PDF documents. The application uses **LangChain** for pipeline orchestration, **Chroma** as the vector store, and leverages the high performance of the **Llama-3.3-70B-Versatile** model via the **Groq API** for rapid, context-aware responses.
+The application uses **LangChain** for pipeline orchestration, **Chroma** as the vector store, and leverages the high performance of the **Llama-3.3-70B-Versatile** model via the **Groq API** for rapid, context-aware responses.
+
 
 ## RAG Pipeline Flow
 
